@@ -1,5 +1,13 @@
-## Hi there 👋
-
+# 自己紹介
+Shellscript065と申します。
+まあいろいろやってます。よろしくお願いします。
+## やってるゲームなど
+アモアス、アルチキ、バトグラフィー、
+ヒューマンフォールフラット、etc...
+## やりたいこと
+なんかの開発(?)
+# 見てくださりありがとうございます。
+皆さんもよい開発ライフを！
 <!--
 **shellscript065/shellscript065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
